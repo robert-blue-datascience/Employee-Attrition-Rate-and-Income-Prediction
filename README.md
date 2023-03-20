@@ -20,6 +20,8 @@ https://rblue101.shinyapps.io/Attrition_Income/
 
 https://www.youtube.com/watch?v=GUGeStTsiS8
 
+# EDA and Data Cleanup
+
 ### Read in data
 
     ##   ID Age Attrition    BusinessTravel DailyRate             Department
@@ -718,7 +720,7 @@ Same with the years working and years at the current company, the
 employees who have been in their position the shortest and longest have
 the higher rates of attrition.
 
-# KNN and Naive Bayes Predictions For Attrition Rate
+# Analyis using KNN and Naive Bayes Predictions For Attrition Rate
 
 ## KNN
 
